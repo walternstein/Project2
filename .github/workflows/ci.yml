@@ -18,5 +18,5 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with:
-          name: remark-lint-report
-          path: public
+          name: remark_lint_report
+          path: public/
